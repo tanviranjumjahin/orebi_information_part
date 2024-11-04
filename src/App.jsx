@@ -66,7 +66,7 @@ function App() {
       {/* category part  End  */}
 
       {/* banner part start  */}
-      <div className="bg-bannerimg w-full py-[300px] bg-no-repeat bg-cover bg-center "></div>
+      <div className="bg-bannerimg w-full py-[300px] bg-no-repeat bg-cover bg-center  "></div>
       {/* banner part end  */}
 
       {/* information part start  */}
